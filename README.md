@@ -11,7 +11,7 @@ The code folder contains the source code of PRA/APRA for the three applications.
 
 ## Execution Command
 
-python GRA.py --type 0/1 --time #num --numAgents $numagents --alpha0 # --eps $\epsilon$
+python GRA.py --type  --time  --numAgents --alpha0  --eps 
 
 --type: 0 indicates Atkinson inequality; 1 indicates Nash welfare
 --time: the repeated number
