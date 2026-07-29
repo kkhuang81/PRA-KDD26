@@ -14,7 +14,10 @@ The code folder contains the source code of PRA/APRA for the three applications.
 python GRA.py --type  --time  --numAgents --alpha0  --eps 
 
 --type: 0 indicates Atkinson inequality; 1 indicates Nash welfare
+
 --time: the repeated number
+
 --alpha0: the initial value of $\alpha_1 \in (0,1)$
+
 --epsilon: the stride parameter $\epsilon$
 
